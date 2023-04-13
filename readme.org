@@ -1,5 +1,5 @@
 I'd like to leverage the full range of privacy features provided by
-the Mullvad Browser without being limited to DuckDuckGo. Although I
+the [[https://mullvad.net/en/browser][Mullvad Browser]] without being limited to DuckDuckGo. Although I
 appreciate the privacy-focused options of DuckDuckGo and Mullvad Leta,
 I occasionally require the search capabilities of google.com for
 specific tasks, such as work-related research. The Mullvad Browser
