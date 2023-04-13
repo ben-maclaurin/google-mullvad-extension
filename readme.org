@@ -1,0 +1,10 @@
+I'd like to leverage the full range of privacy features provided by
+the Mullvad Browser without being limited to DuckDuckGo. Although I
+appreciate the privacy-focused options of DuckDuckGo and Mullvad Leta,
+I occasionally require the search capabilities of google.com for
+specific tasks, such as work-related research. The Mullvad Browser
+does not currently offer an option to change the default search
+engine. I've developed a small personal extension (intended solely for
+my use) that redirects searches to Google.
+
+/i know, probably a decision i'll one day regret/
